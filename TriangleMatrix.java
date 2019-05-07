@@ -13,6 +13,11 @@ public class MainTest {
 		for(int i = 0; i < size; i++) {
 			triangleMatrix[i] = new int[i + 1];
 		}
+		System.out.println();
+		System.out.println("**********************************");
+		System.out.println("***Below is your target matrix!***");
+		System.out.println("**********************************");
+		System.out.println();
 		//assign the value to this matrix
 		for(int i=0; i<triangleMatrix.length; i++) {
 			for(int j=0; j<triangleMatrix[i].length; j++) {
