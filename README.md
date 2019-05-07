@@ -1,1 +1,1 @@
-# Some records of my daily learning of Java
+# Java Daily Learning.
